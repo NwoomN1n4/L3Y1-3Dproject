@@ -24,5 +24,9 @@ public class PlayerCollider : MonoBehaviour
         {
             transform.position = lastPos;
         }
+        if (other.gameObject.CompareTag("Checkpoint"))
+        {
+            lastPos = transform.position;
+        }
     }
 }
