@@ -8,6 +8,7 @@ TagManager:
   - KillTrigger
   - Checkpoint
   - collectable
+  - Exit
   layers:
   - Default
   - TransparentFX

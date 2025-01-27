@@ -1,0 +1,32 @@
+newmtl goal
+Kd 0.7830188 0.7465488 0.5798771
+d 1
+
+newmtl New_Material
+Kd 0.764151 0.7314051 0.5226504
+d 1
+
+newmtl Lit
+Kd 0.5 0.5 0.5
+d 1
+
+newmtl New_Material_4
+Kd 0.8018868 0.7380843 0.1399519
+d 1
+
+newmtl New_Material_5
+Kd 0.9716981 0.5087664 0.7165881
+d 1
+
+newmtl New_Material_6
+Kd 0.9716981 0.5087664 0.7165881
+d 1
+
+newmtl New_Material_1
+Kd 1 1 1
+d 1
+
+newmtl New_Material_1_1
+Kd 0.8458966 0.368325 0.8773585
+d 1
+
